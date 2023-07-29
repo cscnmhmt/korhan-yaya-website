@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "project_name": "Website Project",
+    "thumbnail": "https://img.freepik.com/free-psd/3d-interface-website-presentation-mockup-isolated_359791-208.jpg?w=1380&t=st=1690647093~exp=1690647693~hmac=c591d5e58703d1a4e30567e13c6c248d74dd99e48b19236d660fafe85c7dadf5",
+    "project_types": ["UX", "Development"],
+    "project_images": [
+      "https://img.freepik.com/free-psd/website-design-your-business_24972-394.jpg?w=1380&t=st=1690646937~exp=1690647537~hmac=889854cf97a3475a272c25b29f83ec378bcf7db5aafac369e5b3f124bafa8063",
+      "https://img.freepik.com/free-photo/homepage-seen-computer-screen_23-2149416723.jpg?w=1380&t=st=1690646959~exp=1690647559~hmac=8b275b16d23ec7a7cb57bd9c8bceceb7edd4f59be2677f8c10a3f2d804246fdd"
+    ]
+  },
+  {
+    "id": 2,
+    "project_name": "Mobile App design",
+    "thumbnail": "https://img.freepik.com/free-vector/workout-tracker-app-interface_23-2148653679.jpg?w=1380&t=st=1690647010~exp=1690647610~hmac=428a4f820cf417d7f4263e69d04a48ce5fb4a6857c8b6bcbe6c31adf8019e4f2",
+    "project_types": ["UX", "Design"],
+    "project_images": [
+      "https://img.freepik.com/free-vector/furniture-shopping-app-interface_23-2148660330.jpg?w=1380&t=st=1690647023~exp=1690647623~hmac=6454207f9301bd06a8458d027005aad3685ea718a1a1ac080a30a129c6b4291f",
+      "https://img.freepik.com/free-vector/purchase-online-onboarding-app-screens_23-2148410585.jpg?w=1380&t=st=1690647038~exp=1690647638~hmac=b7ab40c613e064aaa092f2b43cc376cf033b8516afbb2e5487e2afa711c912e8"
+    ]
+  }
+]
