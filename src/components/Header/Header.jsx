@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 
 const Header = () => {
   return (
-    <header className='bg-black p-3 flex justify-between items-center text-white'>
+    <header className="bg-black py-11 px-20 flex items-center text-white">
       <Logo />
       <Navbar />
     </header>
