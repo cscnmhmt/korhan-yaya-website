@@ -1,11 +1,11 @@
 import React from 'react';
 import Works from '../components/Works/Works';
-import Header from '../components/Header/Header';
+import Headline from '../components/Headline/Headline';
 
 const Home = ({ projects, setter }) => {
   return (
     <>
-      <Header />
+      <Headline />
       <Works projects={projects} setter={setter} />
     </>
   );

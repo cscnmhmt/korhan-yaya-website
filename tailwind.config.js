@@ -18,6 +18,7 @@ export default {
         secondary: {
           100: '#7a7a7a',
           300: '#5f5f5f',
+          400: '#bbbbbb',
         },
       },
       fontFamily: {
