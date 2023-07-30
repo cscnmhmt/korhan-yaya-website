@@ -3,7 +3,7 @@ import Header from '../Header/Header';
 
 const Headline = () => {
   return (
-    <div className="bg-black flex flex-col justify-center items-center h-screen bg-[url('../assets/headline.svg')]">
+    <div className="bg-black flex flex-col justify-center items-center h-screen bg-[url('../assets/headline.svg')] bg-cover bg-no-repeat">
       <Header />
       <h1 className="text-[120px] text-white font-heading font-extrabold leading-[164px]">
         Hi! Welcome :)
