@@ -1,11 +1,14 @@
 import React from 'react';
 import Header from '../components/Header/Header';
+import CallToAction from '../components/CTA/CallToAction';
+import Footer from '../components/Footer/Footer';
 
 const About = () => {
   return (
-    <div>
+    <div className="bg-black">
       <Header />
-      <h2 className="text-3xl">Hi I am Korhan Yaya</h2>
+      <CallToAction />
+      <Footer />
     </div>
   );
 };
